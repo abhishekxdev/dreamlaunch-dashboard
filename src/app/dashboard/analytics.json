@@ -1,0 +1,43 @@
+{
+  "overview": {
+    "totalRevenue": 4200000,
+    "totalDeals": 25,
+    "totalLeads": 142,
+    "conversionRate": 24.5,
+    "averageDealSize": 168000,
+    "salesCycleDays": 45
+  },
+  "revenueByMonth": [
+    { "month": "Jan", "revenue": 1200000, "deals": 8 },
+    { "month": "Feb", "revenue": 1350000, "deals": 9 },
+    { "month": "Mar", "revenue": 1450000, "deals": 10 },
+    { "month": "Apr", "revenue": 1600000, "deals": 11 },
+    { "month": "May", "revenue": 1750000, "deals": 12 },
+    { "month": "Jun", "revenue": 2000000, "deals": 14 }
+  ],
+  "revenueBySource": [
+    { "source": "Website", "revenue": 1680000, "percentage": 40 },
+    { "source": "Referral", "revenue": 1050000, "percentage": 25 },
+    { "source": "LinkedIn", "revenue": 840000, "percentage": 20 },
+    { "source": "Email Campaign", "revenue": 420000, "percentage": 10 },
+    { "source": "Trade Show", "revenue": 210000, "percentage": 5 }
+  ],
+  "revenueByStage": [
+    { "stage": "Won", "revenue": 2100000, "count": 5 },
+    { "stage": "Negotiation", "revenue": 1200000, "count": 4 },
+    { "stage": "Proposal", "revenue": 630000, "count": 7 },
+    { "stage": "Qualified", "revenue": 270000, "count": 9 }
+  ],
+  "topPerformers": [
+    { "name": "Sarah Johnson", "revenue": 1250000, "deals": 8 },
+    { "name": "David Kim", "revenue": 1150000, "deals": 4 },
+    { "name": "Michael Chen", "revenue": 180000, "deals": 6 },
+    { "name": "Emily Rodriguez", "revenue": 95000, "deals": 5 }
+  ],
+  "pipelineHealth": {
+    "totalPipelineValue": 2100000,
+    "weightedPipelineValue": 1575000,
+    "averageWinRate": 20,
+    "averageSalesCycle": 45
+  }
+}

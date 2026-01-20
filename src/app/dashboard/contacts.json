@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john.smith@acmecorp.com",
+    "phone": "+1 (555) 111-2222",
+    "company": "Acme Corporation",
+    "title": "VP of Sales",
+    "status": "Active",
+    "lastContact": "2024-06-25",
+    "tags": ["Enterprise", "Key Account"]
+  },
+  {
+    "id": 2,
+    "name": "Emily Johnson",
+    "email": "emily.j@techstart.com",
+    "phone": "+1 (555) 222-3333",
+    "company": "TechStart Solutions",
+    "title": "CTO",
+    "status": "Active",
+    "lastContact": "2024-06-24",
+    "tags": ["SMB", "Technical"]
+  },
+  {
+    "id": 3,
+    "name": "Michael Chen",
+    "email": "michael.chen@innolabs.com",
+    "phone": "+1 (555) 333-4444",
+    "company": "Innovation Labs",
+    "title": "CEO",
+    "status": "Active",
+    "lastContact": "2024-06-23",
+    "tags": ["Enterprise", "Decision Maker"]
+  },
+  {
+    "id": 4,
+    "name": "Sarah Williams",
+    "email": "sarah.w@globalind.com",
+    "phone": "+1 (555) 444-5555",
+    "company": "Global Industries",
+    "title": "Director of Operations",
+    "status": "Active",
+    "lastContact": "2024-06-22",
+    "tags": ["Enterprise", "Operations"]
+  },
+  {
+    "id": 5,
+    "name": "David Martinez",
+    "email": "david.m@startuphub.io",
+    "phone": "+1 (555) 555-6666",
+    "company": "StartupHub Inc",
+    "title": "Founder",
+    "status": "Active",
+    "lastContact": "2024-06-21",
+    "tags": ["Startup", "Founder"]
+  },
+  {
+    "id": 6,
+    "name": "Jennifer Lee",
+    "email": "jennifer.lee@megacorp.com",
+    "phone": "+1 (555) 666-7777",
+    "company": "MegaCorp Ltd",
+    "title": "VP of Technology",
+    "status": "Active",
+    "lastContact": "2024-06-20",
+    "tags": ["Enterprise", "Technical"]
+  },
+  {
+    "id": 7,
+    "name": "Robert Brown",
+    "email": "robert.brown@localbiz.com",
+    "phone": "+1 (555) 777-8888",
+    "company": "Local Business Co",
+    "title": "Owner",
+    "status": "Active",
+    "lastContact": "2024-06-19",
+    "tags": ["SMB", "Owner"]
+  },
+  {
+    "id": 8,
+    "name": "Lisa Anderson",
+    "email": "lisa.a@fortune500.com",
+    "phone": "+1 (555) 888-9999",
+    "company": "Fortune 500 Corp",
+    "title": "Chief Financial Officer",
+    "status": "Active",
+    "lastContact": "2024-06-18",
+    "tags": ["Enterprise", "Finance"]
+  },
+  {
+    "id": 9,
+    "name": "Mark Thompson",
+    "email": "mark.t@techventure.com",
+    "phone": "+1 (555) 999-0000",
+    "company": "TechVenture",
+    "title": "VP of Product",
+    "status": "Active",
+    "lastContact": "2024-06-17",
+    "tags": ["Startup", "Product"]
+  },
+  {
+    "id": 10,
+    "name": "Amanda White",
+    "email": "amanda.w@mfgco.com",
+    "phone": "+1 (555) 000-1111",
+    "company": "Manufacturing Co",
+    "title": "Operations Manager",
+    "status": "Active",
+    "lastContact": "2024-06-16",
+    "tags": ["Enterprise", "Operations"]
+  }
+]

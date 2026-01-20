@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@acmecorp.com",
+    "role": "Sales Manager",
+    "department": "Sales",
+    "avatar": "/api/placeholder/40/40",
+    "status": "Active",
+    "dealsCount": 8,
+    "totalRevenue": "$1,250,000",
+    "phone": "+1 (555) 100-2000"
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "email": "michael.chen@acmecorp.com",
+    "role": "Senior Sales Rep",
+    "department": "Sales",
+    "avatar": "/api/placeholder/40/40",
+    "status": "Active",
+    "dealsCount": 6,
+    "totalRevenue": "$180,000",
+    "phone": "+1 (555) 200-3000"
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@acmecorp.com",
+    "role": "Sales Rep",
+    "department": "Sales",
+    "avatar": "/api/placeholder/40/40",
+    "status": "Active",
+    "dealsCount": 5,
+    "totalRevenue": "$95,000",
+    "phone": "+1 (555) 300-4000"
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "email": "david.kim@acmecorp.com",
+    "role": "Sales Rep",
+    "department": "Sales",
+    "avatar": "/api/placeholder/40/40",
+    "status": "Active",
+    "dealsCount": 4,
+    "totalRevenue": "$1,150,000",
+    "phone": "+1 (555) 400-5000"
+  },
+  {
+    "id": 5,
+    "name": "Jessica Martinez",
+    "email": "jessica.martinez@acmecorp.com",
+    "role": "Marketing Manager",
+    "department": "Marketing",
+    "avatar": "/api/placeholder/40/40",
+    "status": "Active",
+    "dealsCount": 0,
+    "totalRevenue": "$0",
+    "phone": "+1 (555) 500-6000"
+  },
+  {
+    "id": 6,
+    "name": "Ryan Thompson",
+    "email": "ryan.thompson@acmecorp.com",
+    "role": "Customer Success Manager",
+    "department": "Customer Success",
+    "avatar": "/api/placeholder/40/40",
+    "status": "Active",
+    "dealsCount": 0,
+    "totalRevenue": "$0",
+    "phone": "+1 (555) 600-7000"
+  },
+  {
+    "id": 7,
+    "name": "Amanda Wilson",
+    "email": "amanda.wilson@acmecorp.com",
+    "role": "Sales Rep",
+    "department": "Sales",
+    "avatar": "/api/placeholder/40/40",
+    "status": "On Leave",
+    "dealsCount": 2,
+    "totalRevenue": "$30,000",
+    "phone": "+1 (555) 700-8000"
+  },
+  {
+    "id": 8,
+    "name": "James Anderson",
+    "email": "james.anderson@acmecorp.com",
+    "role": "Sales Director",
+    "department": "Sales",
+    "avatar": "/api/placeholder/40/40",
+    "status": "Active",
+    "dealsCount": 0,
+    "totalRevenue": "$0",
+    "phone": "+1 (555) 800-9000"
+  }
+]

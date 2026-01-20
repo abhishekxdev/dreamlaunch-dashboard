@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "header": "Acme Corporation - Enterprise Deal",
+    "type": "Enterprise",
+    "status": "Qualified",
+    "target": "$125,000",
+    "limit": "$150,000",
+    "reviewer": "Sarah Johnson"
+  },
+  {
+    "id": 2,
+    "header": "TechStart Solutions - SaaS Subscription",
+    "type": "SMB",
+    "status": "Proposal",
+    "target": "$45,000",
+    "limit": "$50,000",
+    "reviewer": "Michael Chen"
+  },
+  {
+    "id": 3,
+    "header": "Global Industries - Annual Contract",
+    "type": "Enterprise",
+    "status": "Won",
+    "target": "$250,000",
+    "limit": "$250,000",
+    "reviewer": "Sarah Johnson"
+  },
+  {
+    "id": 4,
+    "header": "StartupHub Inc - Startup Package",
+    "type": "Startup",
+    "status": "Qualified",
+    "target": "$15,000",
+    "limit": "$20,000",
+    "reviewer": "Emily Rodriguez"
+  },
+  {
+    "id": 5,
+    "header": "MegaCorp Ltd - Multi-Year Deal",
+    "type": "Enterprise",
+    "status": "Negotiation",
+    "target": "$500,000",
+    "limit": "$600,000",
+    "reviewer": "David Kim"
+  },
+  {
+    "id": 6,
+    "header": "Local Business Co - Basic Plan",
+    "type": "SMB",
+    "status": "Qualified",
+    "target": "$8,000",
+    "limit": "$10,000",
+    "reviewer": "Emily Rodriguez"
+  },
+  {
+    "id": 7,
+    "header": "Innovation Labs - R&D Partnership",
+    "type": "Enterprise",
+    "status": "Proposal",
+    "target": "$180,000",
+    "limit": "$200,000",
+    "reviewer": "Michael Chen"
+  },
+  {
+    "id": 8,
+    "header": "SmallBiz Solutions - Starter Package",
+    "type": "SMB",
+    "status": "Won",
+    "target": "$12,000",
+    "limit": "$12,000",
+    "reviewer": "Assign owner"
+  },
+  {
+    "id": 9,
+    "header": "Fortune 500 Corp - Enterprise Suite",
+    "type": "Enterprise",
+    "status": "Qualified",
+    "target": "$750,000",
+    "limit": "$800,000",
+    "reviewer": "Sarah Johnson"
+  },
+  {
+    "id": 10,
+    "header": "TechVenture - Growth Package",
+    "type": "Startup",
+    "status": "Proposal",
+    "target": "$25,000",
+    "limit": "$30,000",
+    "reviewer": "Emily Rodriguez"
+  },
+  {
+    "id": 11,
+    "header": "Manufacturing Co - Industry Solution",
+    "type": "Enterprise",
+    "status": "Negotiation",
+    "target": "$320,000",
+    "limit": "$350,000",
+    "reviewer": "David Kim"
+  },
+  {
+    "id": 12,
+    "header": "Retail Chain - Multi-Store Deal",
+    "type": "Enterprise",
+    "status": "Won",
+    "target": "$95,000",
+    "limit": "$95,000",
+    "reviewer": "Assign owner"
+  },
+  {
+    "id": 13,
+    "header": "Consulting Firm - Professional Services",
+    "type": "SMB",
+    "status": "Qualified",
+    "target": "$22,000",
+    "limit": "$25,000",
+    "reviewer": "Michael Chen"
+  },
+  {
+    "id": 14,
+    "header": "Healthcare System - Compliance Package",
+    "type": "Enterprise",
+    "status": "Proposal",
+    "target": "$420,000",
+    "limit": "$450,000",
+    "reviewer": "Sarah Johnson"
+  },
+  {
+    "id": 15,
+    "header": "E-commerce Platform - Scale Plan",
+    "type": "SMB",
+    "status": "Qualified",
+    "target": "$35,000",
+    "limit": "$40,000",
+    "reviewer": "Emily Rodriguez"
+  },
+  {
+    "id": 16,
+    "header": "Financial Services - Security Suite",
+    "type": "Enterprise",
+    "status": "Negotiation",
+    "target": "$280,000",
+    "limit": "$300,000",
+    "reviewer": "David Kim"
+  },
+  {
+    "id": 17,
+    "header": "Education Institution - Academic License",
+    "type": "SMB",
+    "status": "Won",
+    "target": "$18,000",
+    "limit": "$18,000",
+    "reviewer": "Assign owner"
+  },
+  {
+    "id": 18,
+    "header": "Media Company - Content Platform",
+    "type": "Enterprise",
+    "status": "Qualified",
+    "target": "$165,000",
+    "limit": "$180,000",
+    "reviewer": "Michael Chen"
+  },
+  {
+    "id": 19,
+    "header": "Logistics Corp - Operations Suite",
+    "type": "Enterprise",
+    "status": "Proposal",
+    "target": "$380,000",
+    "limit": "$400,000",
+    "reviewer": "Sarah Johnson"
+  },
+  {
+    "id": 20,
+    "header": "Real Estate Group - Property Management",
+    "type": "SMB",
+    "status": "Qualified",
+    "target": "$28,000",
+    "limit": "$32,000",
+    "reviewer": "Emily Rodriguez"
+  },
+  {
+    "id": 21,
+    "header": "Energy Company - Sustainability Package",
+    "type": "Enterprise",
+    "status": "Negotiation",
+    "target": "$550,000",
+    "limit": "$600,000",
+    "reviewer": "David Kim"
+  },
+  {
+    "id": 22,
+    "header": "Non-Profit Org - Community License",
+    "type": "SMB",
+    "status": "Won",
+    "target": "$5,000",
+    "limit": "$5,000",
+    "reviewer": "Assign owner"
+  },
+  {
+    "id": 23,
+    "header": "Telecom Provider - Infrastructure Deal",
+    "type": "Enterprise",
+    "status": "Qualified",
+    "target": "$680,000",
+    "limit": "$750,000",
+    "reviewer": "Sarah Johnson"
+  },
+  {
+    "id": 24,
+    "header": "Food & Beverage - Supply Chain",
+    "type": "Enterprise",
+    "status": "Proposal",
+    "target": "$195,000",
+    "limit": "$220,000",
+    "reviewer": "Michael Chen"
+  },
+  {
+    "id": 25,
+    "header": "Fitness Chain - Multi-Location",
+    "type": "SMB",
+    "status": "Qualified",
+    "target": "$42,000",
+    "limit": "$48,000",
+    "reviewer": "Emily Rodriguez"
+  }
+]

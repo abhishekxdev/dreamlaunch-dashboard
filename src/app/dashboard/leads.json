@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "TechStart Solutions",
+    "company": "TechStart Solutions Inc.",
+    "email": "contact@techstart.com",
+    "phone": "+1 (555) 234-5678",
+    "status": "New",
+    "source": "Website",
+    "value": "$45,000",
+    "assignedTo": "Michael Chen",
+    "createdDate": "2024-06-15"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "company": "Innovation Labs",
+    "email": "sarah.williams@innolabs.com",
+    "phone": "+1 (555) 345-6789",
+    "status": "Contacted",
+    "source": "Referral",
+    "value": "$180,000",
+    "assignedTo": "Emily Rodriguez",
+    "createdDate": "2024-06-10"
+  },
+  {
+    "id": 3,
+    "name": "David Martinez",
+    "company": "Global Industries",
+    "email": "david.m@globalind.com",
+    "phone": "+1 (555) 456-7890",
+    "status": "Qualified",
+    "source": "LinkedIn",
+    "value": "$250,000",
+    "assignedTo": "Sarah Johnson",
+    "createdDate": "2024-06-05"
+  },
+  {
+    "id": 4,
+    "name": "Jennifer Lee",
+    "company": "StartupHub Inc",
+    "email": "jennifer@startuphub.io",
+    "phone": "+1 (555) 567-8901",
+    "status": "New",
+    "source": "Website",
+    "value": "$15,000",
+    "assignedTo": "Michael Chen",
+    "createdDate": "2024-06-20"
+  },
+  {
+    "id": 5,
+    "name": "Robert Brown",
+    "company": "MegaCorp Ltd",
+    "email": "robert.brown@megacorp.com",
+    "phone": "+1 (555) 678-9012",
+    "status": "Contacted",
+    "source": "Email Campaign",
+    "value": "$500,000",
+    "assignedTo": "David Kim",
+    "createdDate": "2024-06-12"
+  },
+  {
+    "id": 6,
+    "name": "Lisa Anderson",
+    "company": "Local Business Co",
+    "email": "lisa@localbiz.com",
+    "phone": "+1 (555) 789-0123",
+    "status": "Qualified",
+    "source": "Trade Show",
+    "value": "$8,000",
+    "assignedTo": "Emily Rodriguez",
+    "createdDate": "2024-06-08"
+  },
+  {
+    "id": 7,
+    "name": "Mark Thompson",
+    "company": "Fortune 500 Corp",
+    "email": "mark.thompson@fortune500.com",
+    "phone": "+1 (555) 890-1234",
+    "status": "New",
+    "source": "Website",
+    "value": "$750,000",
+    "assignedTo": "Sarah Johnson",
+    "createdDate": "2024-06-18"
+  },
+  {
+    "id": 8,
+    "name": "Amanda White",
+    "company": "TechVenture",
+    "email": "amanda@techventure.com",
+    "phone": "+1 (555) 901-2345",
+    "status": "Contacted",
+    "source": "Referral",
+    "value": "$25,000",
+    "assignedTo": "Michael Chen",
+    "createdDate": "2024-06-14"
+  },
+  {
+    "id": 9,
+    "name": "James Wilson",
+    "company": "Manufacturing Co",
+    "email": "james.wilson@mfgco.com",
+    "phone": "+1 (555) 012-3456",
+    "status": "Qualified",
+    "source": "LinkedIn",
+    "value": "$320,000",
+    "assignedTo": "David Kim",
+    "createdDate": "2024-06-07"
+  },
+  {
+    "id": 10,
+    "name": "Patricia Garcia",
+    "company": "Retail Chain",
+    "email": "patricia.g@retailchain.com",
+    "phone": "+1 (555) 123-4567",
+    "status": "New",
+    "source": "Website",
+    "value": "$95,000",
+    "assignedTo": "Emily Rodriguez",
+    "createdDate": "2024-06-19"
+  }
+]
